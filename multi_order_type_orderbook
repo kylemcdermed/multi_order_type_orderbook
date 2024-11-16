@@ -1,26 +1,5 @@
 
 #include <iostream>
-#include <map>
-#include <set>
-#include <list>
-#include <ctime>
-#include <deque>
-#include <stack>
-#include <limits>
-#include <string>
-#include <vector>
-#include <numeric>
-#include <algorithm>
-#include <unordered_map>
-#include <memory>
-#include <tuple>
-#include <exception>
-#include <format>
-#include <cstdint>
-
-using std::cout;
-using std::cin;
-using std::endl;
 
 enum class OrderType {
     GoodTillCancel,
